@@ -30,6 +30,6 @@ I design and build end-to-end systems at the intersection of engineering, data s
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-robertkimutai.netlify.app-blue?style=flat-square)](https://robertkimutai.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-robertkimutai.netlify.app-blue?style=flat-square)](https://robertkimutai-ds.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert%20Kimutai-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/robert-kimutai-921608330/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-kimutairobert-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/kimutairobert)
