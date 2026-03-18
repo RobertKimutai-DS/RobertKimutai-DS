@@ -48,25 +48,12 @@ I'm **Robert Kimutai**, a graduate engineer and data scientist based in Kenya. I
 
 ## Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/RobertKimutai-DS/shaSystem"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertKimutai-DS&amp;repo=shaSystem&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="SHA System"/> </a> <a href="https://github.com/RobertKimutai-DS/SmartLicenSync"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertKimutai-DS&amp;repo=SmartLicenSync&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="SmartLicenSync"/> </a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/RobertKimutai-DS/uon-msc-thesis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertKimutai-DS&amp;repo=uon-msc-thesis&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="MSc Thesis"/> </a> <a href="https://github.com/RobertKimutai-DS/Portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertKimutai-DS&amp;repo=Portfolio&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Portfolio"/> </a>
-
-</p>
-
-### Impact at a Glance
-
-| Project | What It Does | Scale |
-|:--------------------|:--------------------------------|:-----------------|
-| :hospital: [**SHA Health System**](https://github.com/RobertKimutai-DS/shaSystem) | 4-package R architecture with 28 JWT-authenticated API endpoints, Isolation Forest fraud detection, M-Pesa integration | **54M citizens** |
-| :bar_chart: [**SmartLicenSync**](https://github.com/RobertKimutai-DS/SmartLicenSync) | 11-module Golem/Shiny revenue optimization platform for Kericho County Government | **30 wards** |
-| :sun_with_face: [**Solar Cooker IoT**](https://github.com/RobertKimutai-DS/uon-msc-thesis) | Open-source ASAE S580.1 data acquisition unit replacing \$10K+ lab equipment | **Sub-\$100 build** |
+| | Project | What It Does | Scale |
+|:--|:--------|:-------------|:------|
+| :hospital: | **SHA Health System** | 4-package R architecture with 28 JWT-authenticated API endpoints, Isolation Forest fraud detection, M-Pesa integration | **54M citizens** |
+| :bar_chart: | **SmartLicenSync** | 11-module Golem/Shiny revenue optimization platform for Kericho County Government | **30 wards** |
+| :sun_with_face: | **Solar Cooker IoT** | Open-source ASAE S580.1 data acquisition unit replacing \$10K+ lab equipment | **Sub-\$100 build** |
+| :globe_with_meridians: | **[Portfolio](https://github.com/RobertKimutai-DS/Portfolio)** | Data science portfolio website built with Quarto | **Live site** |
 
 ------------------------------------------------------------------------
 
