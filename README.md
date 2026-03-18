@@ -57,35 +57,11 @@ I'm **Robert Kimutai**, a graduate engineer and data scientist based in Kenya. I
 
 ------------------------------------------------------------------------
 
-## GitHub Stats
+## Top Languages
 
 <p align="center">
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RobertKimutai-DS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RobertKimutai-DS&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" /> <img src="https://github-readme-stats.vercel.app/api?username=RobertKimutai-DS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" width="49%"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKimutai-DS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=jupyter%20notebook,html,css" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKimutai-DS&layout=compact&theme=default&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKimutai-DS&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;langs_count=8&amp;hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%"/> </picture>
-
-</p>
-
-<p align="center">
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RobertKimutai-DS&theme=tokyonight&hide_border=true&background=0D1117" /> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RobertKimutai-DS&theme=default&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=RobertKimutai-DS&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak"/> </picture>
-
-</p>
-
-------------------------------------------------------------------------
-
-## GitHub Trophies
-
-<p align="center">
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RobertKimutai-DS&theme=tokyonight&no-frame=true&no-bg=true&column=7" /> <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RobertKimutai-DS&theme=flat&no-frame=true&no-bg=true&column=7" /> <img src="https://github-profile-trophy.vercel.app/?username=RobertKimutai-DS&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7" alt="GitHub Trophies"/> </picture>
-
-</p>
-
-------------------------------------------------------------------------
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertKimutai-DS&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=38BDF8&amp;point=FF6B6B" alt="Activity Graph"/>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKimutai-DS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&hide=jupyter%20notebook,html,css" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKimutai-DS&layout=compact&theme=default&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertKimutai-DS&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;langs_count=8&amp;hide=jupyter%20notebook,html,css" alt="Top Languages"/> </picture>
 
 </p>
 
